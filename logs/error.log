@@ -1,0 +1,75 @@
+2019-09-25 10:19:43 Warning: Warning (512): Unable to emit headers. Headers sent in file=/Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Error/Debugger.php line=856 in [/Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 51]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 158
+Cake\Http\ResponseEmitter::emit() - CORE/src/Http/ResponseEmitter.php, line 51
+Cake\Error\ErrorHandler::_sendResponse() - CORE/src/Error/ErrorHandler.php, line 198
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 139
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 176
+[main] - [internal], line ??
+
+
+
+2019-09-25 10:19:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Error/Debugger.php:856) in [/Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 152]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 158
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitStatusLine() - CORE/src/Http/ResponseEmitter.php, line 152
+Cake\Http\ResponseEmitter::emit() - CORE/src/Http/ResponseEmitter.php, line 57
+Cake\Error\ErrorHandler::_sendResponse() - CORE/src/Error/ErrorHandler.php, line 198
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 139
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 176
+[main] - [internal], line ??
+
+
+
+2019-09-25 10:19:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Error/Debugger.php:856) in [/Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Http/ResponseEmitter.php, line 181]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 158
+header - [internal], line ??
+Cake\Http\ResponseEmitter::emitHeaders() - CORE/src/Http/ResponseEmitter.php, line 181
+Cake\Http\ResponseEmitter::emit() - CORE/src/Http/ResponseEmitter.php, line 58
+Cake\Error\ErrorHandler::_sendResponse() - CORE/src/Error/ErrorHandler.php, line 198
+Cake\Error\ErrorHandler::_displayException() - CORE/src/Error/ErrorHandler.php, line 139
+Cake\Error\BaseErrorHandler::handleException() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::wrapAndHandleException() - CORE/src/Error/BaseErrorHandler.php, line 176
+[main] - [internal], line ??
+
+
+
+2019-09-25 10:19:43 Error: [Cake\Core\Exception\MissingPluginException] Plugin Highcharts could not be found. in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 137
+Exception Attributes: array (
+  'plugin' => 'Highcharts',
+)
+Stack Trace:
+#0 /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Core/Plugin.php(140): Cake\Core\PluginCollection->findPath('Highcharts')
+#1 /Users/Henna/Downloads/Project Work/my_app_name/config/bootstrap.php(184): Cake\Core\Plugin::load('Highcharts')
+#2 /Users/Henna/Downloads/Project Work/my_app_name/webroot/index.php(27): require('/Users/Henna/Do...')
+#3 {main}
+
+
+2019-09-25 10:26:14 Error: [Cake\Core\Exception\MissingPluginException] Plugin Highcharts could not be found. in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Core/PluginCollection.php on line 137
+Exception Attributes: array (
+  'plugin' => 'Highcharts',
+)
+2019-09-25 10:29:29 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES) in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-09-25 10:32:34 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES) in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
+Request URL: /
+2019-09-25 10:41:20 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: YES) in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-09-25 10:44:14 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-09-25 10:44:19 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-09-25 10:45:22 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'my_app'@'localhost' (using password: NO) in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-09-25 10:45:52 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
