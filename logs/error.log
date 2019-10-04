@@ -73,3 +73,15 @@ Referer URL: http://localhost:8888/MAMP/?language=English
 2019-09-25 10:45:52 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /Users/Henna/Downloads/Project Work/my_app_name/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
 Request URL: /
 Referer URL: http://localhost:8888/MAMP/?language=English
+2019-09-26 12:34:15 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-09-26 12:41:37 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Driver.php on line 92
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-10-03 11:38:20 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects/view/1
+Referer URL: http://localhost:8888/projects
+2019-10-03 11:38:38 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects/view/1
+Referer URL: http://localhost:8888/projects
