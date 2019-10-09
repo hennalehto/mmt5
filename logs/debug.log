@@ -45,3 +45,18 @@ require - ROOT/config/bootstrap.php, line 184
 
 
 
+2019-10-06 15:19:59 Notice: Notice (8): compact(): Undefined variable: projects in [/Users/Henna/Downloads/Project Work/mmt5/src/Controller/MetricsController.php, line 58]
+
+
+2019-10-06 15:19:59 Notice: Notice (8): compact() [<a href='https://secure.php.net/function.compact'>function.compact</a>]: Undefined variable: weeklyreports in [/Users/Henna/Downloads/Project Work/mmt5/src/Controller/MetricsController.php, line 58]
+
+
+2019-10-06 15:20:27 Notice: Notice (8): compact(): Undefined variable: projects in [/Users/Henna/Downloads/Project Work/mmt5/src/Controller/MembersController.php, line 74]
+
+
+2019-10-06 15:23:39 Notice: Notice (8): compact(): Undefined variable: projects in [/Users/Henna/Downloads/Project Work/mmt5/src/Controller/MembersController.php, line 74]
+
+
+2019-10-06 15:24:32 Notice: Notice (8): compact(): Undefined variable: projects in [/Users/Henna/Downloads/Project Work/mmt5/src/Controller/MembersController.php, line 100]
+
+

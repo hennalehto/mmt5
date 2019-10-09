@@ -85,3 +85,74 @@ Referer URL: http://localhost:8888/projects
 2019-10-03 11:38:38 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
 Request URL: /projects/view/1
 Referer URL: http://localhost:8888/projects
+2019-10-04 13:18:55 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects/view/1
+Referer URL: http://localhost:8888/projects
+2019-10-04 13:20:07 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects/view/1
+Referer URL: http://localhost:8888/projects
+2019-10-04 13:21:31 Warning: Warning (2): A non-numeric value encountered in [/Users/Henna/Downloads/Project Work/mmt5/src/Template/Members/index.ctp, line 50]
+
+
+2019-10-04 13:23:42 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects/view/1
+Referer URL: http://localhost:8888/projects
+2019-10-04 13:23:47 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects/view/1
+Referer URL: http://localhost:8888/projects
+2019-10-04 13:50:08 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects
+Referer URL: http://localhost:8888/users/login
+2019-10-04 13:51:14 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-10-04 13:51:44 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-10-04 13:52:32 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /
+Referer URL: http://localhost:8888/MAMP/?language=English
+2019-10-06 15:19:59 Warning: Headers already sent in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Error/Debugger.php:856
+2019-10-06 15:20:27 Warning: Headers already sent in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Error/Debugger.php:856
+2019-10-06 15:21:20 Warning: Warning (2): A non-numeric value encountered in [/Users/Henna/Downloads/Project Work/mmt5/src/Template/Members/index.ctp, line 50]
+
+
+2019-10-06 15:21:49 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects/view/1
+Referer URL: http://localhost:8888/projects
+2019-10-06 15:22:08 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects/view/1
+Referer URL: http://localhost:8888/projects
+2019-10-06 15:23:36 Warning: Warning (2): A non-numeric value encountered in [/Users/Henna/Downloads/Project Work/mmt5/src/Template/Members/index.ctp, line 50]
+
+
+2019-10-06 15:23:39 Warning: Headers already sent in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Error/Debugger.php:856
+2019-10-06 15:23:53 Warning: Warning (2): A non-numeric value encountered in [/Users/Henna/Downloads/Project Work/mmt5/src/Template/Members/index.ctp, line 50]
+
+
+2019-10-06 15:23:58 Warning: Warning (2): A non-numeric value encountered in [/Users/Henna/Downloads/Project Work/mmt5/src/Template/Members/index.ctp, line 50]
+
+
+2019-10-06 15:24:06 Warning: Warning (2): A non-numeric value encountered in [/Users/Henna/Downloads/Project Work/mmt5/src/Template/Members/index.ctp, line 50]
+
+
+2019-10-06 15:24:32 Warning: Headers already sent in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Error/Debugger.php:856
+2019-10-06 15:25:23 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'new_database.Notifications.comment_id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Database/Statement/MysqlStatement.php on line 38
+Request URL: /projects/view/1
+Referer URL: http://localhost:8888/projects
+2019-10-06 15:35:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class AppleTouchIconPrecomposed.png could not be found. in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Http/ControllerFactory.php on line 104
+Exception Attributes: array (
+  'class' => 'AppleTouchIconPrecomposed.png',
+  'plugin' => false,
+  'prefix' => false,
+  '_ext' => false,
+)
+Request URL: /apple-touch-icon-precomposed.png
+2019-10-06 15:35:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class AppleTouchIcon.png could not be found. in /Users/Henna/Downloads/Project Work/mmt5/vendor/cakephp/cakephp/src/Http/ControllerFactory.php on line 104
+Exception Attributes: array (
+  'class' => 'AppleTouchIcon.png',
+  'plugin' => false,
+  'prefix' => false,
+  '_ext' => false,
+)
+Request URL: /apple-touch-icon.png
